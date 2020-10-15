@@ -16,10 +16,10 @@
    -->
   <link rel="shortcut icon" href="./favicon.ico" />
   <link rel="apple-touch-icon" sizes="76x76" href="./apple-icon.png" />
-<link rel="stylesheet" href="styles.1ffdab2ff9aeac76b56e.css"></head>
+</head>
 
 <body style="background-color: #F0F0F0;">
   <app-root></app-root>
-<script src="runtime-es2015.361ed2e0f3b26f39f32a.js" type="module"></script><script src="runtime-es5.361ed2e0f3b26f39f32a.js" nomodule defer></script><script src="polyfills-es5.d14284bc9937dc71fac9.js" nomodule defer></script><script src="polyfills-es2015.c22deca97da1aafbcba8.js" type="module"></script><script src="main-es2015.4e3880d729013580559c.js" type="module"></script><script src="main-es5.4e3880d729013580559c.js" nomodule defer></script></body>
+<script src="runtime-es2015.js" type="module"></script><script src="runtime-es5.js" nomodule defer></script><script src="polyfills-es5.js" nomodule defer></script><script src="polyfills-es2015.js" type="module"></script><script src="styles-es2015.js" type="module"></script><script src="styles-es5.js" nomodule defer></script><script src="vendor-es2015.js" type="module"></script><script src="vendor-es5.js" nomodule defer></script><script src="main-es2015.js" type="module"></script><script src="main-es5.js" nomodule defer></script></body>
 
 </html>
